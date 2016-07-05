@@ -1,6 +1,9 @@
 Riddle/Riddle/obj/
-Riddle/Riddle/obj/
+Riddle/Riddle/bin/
 Riddle/Riddle/Properties/
+obj/
+bin/
+
 *.txt
 *.xaml
 *.config
